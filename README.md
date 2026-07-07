@@ -2,6 +2,10 @@
 
 **An open educational platform for learning how wireless capsule endoscopes work — built on the bench, never in a body.**
 
+![OpenCapsule-EDU concept capsule](docs/media/hero.jpg)
+
+<p align="center"><em>Concept renders generated for this project — the real teardown photos live in <a href="docs/teardown-analysis.md">docs/teardown-analysis.md</a>.</em></p>
+
 > ⚠️ **THIS IS NOT A MEDICAL DEVICE.** This project is a bench-top learning replica of the *electronics architecture* of a capsule endoscope. It must **never be swallowed, implanted, or used on humans or animals** in any way. Read [SAFETY_AND_LEGAL.md](SAFETY_AND_LEGAL.md) before doing anything else.
 
 ---
@@ -24,6 +28,17 @@ changes that, in two ways:
 **Learning outcomes:** ultra-low-power firmware design, pulsed power budgeting,
 sub-GHz RF links, image transport over constrained radios, coin-cell chemistry,
 rigid-flex mechanical design, and the regulatory landscape around medical RF devices.
+
+---
+
+## Project media
+
+| | |
+|---|---|
+| ![Exploded view](docs/media/exploded-view.jpg) | ![Radio board macro](docs/media/radio-board-macro.jpg) |
+| *The layer stack we found in the teardown* | *The radio/processing board concept* |
+
+**▶ Watch the 3-minute explainer:** [docs/media/opencapsule-intro.mp4](docs/media/opencapsule-intro.mp4)
 
 ---
 
