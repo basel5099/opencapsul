@@ -40,7 +40,11 @@ rigid-flex mechanical design, and the regulatory landscape around medical RF dev
 | ![Exploded view](docs/media/exploded-view.jpg) | ![Radio board macro](docs/media/radio-board-macro.jpg) |
 | *The layer stack we found in the teardown* | *The radio/processing board concept* |
 
-**▶ Watch the technical explainer** — [docs/media/opencapsule-tech-explainer.mp4](docs/media/opencapsule-tech-explainer.mp4) (2:35, 6 MB): animated schematics covering the layer stack, signal chain, wiring, power tree, pulse budget, and wire format. Every frame is rendered by code in [tools/explainer-video](tools/explainer-video/README.md).
+**▶ Watch the technical explainer on YouTube:** <https://www.youtube.com/watch?v=2K7CeTK16ws>
+
+[![How a Capsule Endoscope Works — Complete Technical Walkthrough](docs/media/youtube/thumb-tech-explainer.jpg)](https://www.youtube.com/watch?v=2K7CeTK16ws)
+
+2:35 of animated schematics: layer stack, signal chain, wiring, power tree, pulse budget, and wire format. Every frame is rendered by code in [tools/explainer-video](tools/explainer-video/README.md) — also available in-repo as [opencapsule-tech-explainer.mp4](docs/media/opencapsule-tech-explainer.mp4). Follow the project on YouTube: [@opencapsul](https://www.youtube.com/@opencapsul).
 
 **Schematics** (also embedded throughout the docs):
 
