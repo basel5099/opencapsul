@@ -1,0 +1,23 @@
+# build artifacts
+*.out
+*.map
+*.o
+*.d
+Debug/
+Release/
+.launches/
+.settings/
+
+# CCS / IDE
+.metadata/
+*.ccsproject
+targetConfigs/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+Thumbs.db
+.DS_Store
