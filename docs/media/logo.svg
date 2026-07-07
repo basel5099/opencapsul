@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 200" width="360" height="200">
+  <!-- OpenCapsule-EDU logo: capsule endoscope, dome left, 3 LEDs around the lens -->
+  <rect x="50" y="38" width="260" height="124" rx="62" fill="#EBEEF0"/>
+  <circle cx="93.7" cy="100" r="58.3" fill="#1C242C" stroke="#AAC8D7" stroke-width="4"/>
+  <circle cx="92" cy="100" r="18.6" fill="#0A0A0C"/>
+  <circle cx="92" cy="138.4" r="7.4" fill="#FFB347"/>
+  <circle cx="58.7" cy="80.8" r="7.4" fill="#FFB347"/>
+  <circle cx="125.3" cy="80.8" r="7.4" fill="#FFB347"/>
+</svg>

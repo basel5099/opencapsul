@@ -1,4 +1,6 @@
-# OpenCapsule-EDU 💊📡
+<p align="center"><img src="docs/media/logo.png" width="200" alt="OpenCapsule-EDU logo"></p>
+
+# OpenCapsule-EDU
 
 **An open educational platform for learning how wireless capsule endoscopes work — built on the bench, never in a body.**
 
