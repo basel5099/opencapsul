@@ -6,12 +6,6 @@
 
 ---
 
-## ملخص بالعربية
-
-هذا مشروع تعليمي مفتوح المصدر يشرح ويعيد بناء البنية الإلكترونية لكبسولة المنظار اللاسلكية (كاميرا + ضغط صور + إرسال لاسلكي دون 1 جيجاهرتز + إدارة طاقة من خلايا زر) كنموذج مختبري على الطاولة، **للتعلم فقط وليس للاستخدام الطبي إطلاقاً**. المشروع مبني على تشريح كامل لكبسولة تجارية حقيقية (موثّق في [docs/teardown-analysis.md](docs/teardown-analysis.md)) ويقود المتعلم عبر مراحل عملية: من لوحات التطوير الجاهزة إلى تصميم لوحات دائرية مصغّرة، مع حسابات ميزانية الطاقة والبروتوكول اللاسلكي كاملة.
-
----
-
 ## Why this project exists
 
 Commercial capsule endoscopes (PillCam, MiroCam, OMOM, ANKON…) are marvels of extreme
@@ -137,8 +131,7 @@ opencapsule-edu/
 ## Contributing
 
 Issues and PRs are welcome: better antenna designs, cleaner power measurements,
-translations (an Arabic translation of the docs is a stated goal — ملاحظة: الترجمة
-العربية الكاملة للوثائق هدف معلن للمشروع), phantom-tissue experiment writeups.
+translations, phantom-tissue experiment writeups.
 Please keep every contribution within the safety rules — anything that moves the
 project toward ingestion or clinical use will be rejected.
 
