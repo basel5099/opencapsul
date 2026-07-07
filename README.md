@@ -38,7 +38,15 @@ rigid-flex mechanical design, and the regulatory landscape around medical RF dev
 | ![Exploded view](docs/media/exploded-view.jpg) | ![Radio board macro](docs/media/radio-board-macro.jpg) |
 | *The layer stack we found in the teardown* | *The radio/processing board concept* |
 
-**▶ Watch the 3-minute explainer:** [docs/media/opencapsule-intro.mp4](docs/media/opencapsule-intro.mp4)
+**▶ Videos:**
+- [Technical explainer (2:35, 6 MB)](docs/media/opencapsule-tech-explainer.mp4) — animated schematics: layer stack, signal chain, wiring, power tree, pulse budget, wire format
+- [Cinematic intro (2:55, 67 MB)](docs/media/opencapsule-intro.mp4) — concept film
+
+**Schematics** (also embedded throughout the docs):
+
+| | |
+|---|---|
+| ![Wiring](docs/media/fig-replica-wiring.png) | ![Pulse budget](docs/media/fig-pulse-budget.png) |
 
 ---
 

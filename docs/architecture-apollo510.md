@@ -112,6 +112,8 @@ numbers).
 
 ## 4. Wiring plan
 
+![Replica wiring diagram](media/fig-replica-wiring.png)
+
 ### 4.1 Bench (Phase 1–2): EVB + LaunchPad + Mega
 
 ```
@@ -157,6 +159,8 @@ numbers).
   viewer need **zero changes** when the brain board appears.
 
 ### 4.3 Battery build (Phase 3): one shared rail
+
+![Power tree](media/fig-power-tree.png)
 
 ```
 2× SR927R (3.1 V → 2.4 V EOL)

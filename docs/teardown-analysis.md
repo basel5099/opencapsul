@@ -1,5 +1,8 @@
 # Teardown Analysis — Commercial Wireless Capsule Endoscope
 
+![Capsule layer stack](media/fig-capsule-stack.png)
+![Signal chain](media/fig-signal-chain.png)
+
 This document records a component-level teardown of an unbranded commercial capsule
 endoscope (likely a recent Chinese design, post-2016), cross-checked against public
 datasheets. It is the evidence base for the OpenCapsule-EDU architecture.

@@ -47,6 +47,8 @@ Implementation notes:
 
 ## Packet format (keep it dumb, keep it debuggable)
 
+![Wire format](../docs/media/fig-wire-format.png)
+
 Radio payload ≤ 128 B works everywhere. Suggested layout:
 
 ```c

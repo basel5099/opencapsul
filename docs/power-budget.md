@@ -1,5 +1,7 @@
 # Power Budget — the math that shapes the whole device
 
+![Pulse power budget](media/fig-pulse-budget.png)
+
 The single most important lesson of capsule design: **the battery is the product;
 everything else negotiates with it.** This document walks the numbers, then shows
 how to measure your own build against them.
